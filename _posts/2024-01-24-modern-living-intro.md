@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Embracing Modern Living: The Heart of CozyChai"
-categories: [ Jekyll, tutorial ]
+categories: [ ModernLiving ]
 image: assets/images/5modern.jpg
 tags: [featured]
 ---

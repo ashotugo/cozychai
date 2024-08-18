@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Planning a Stunning Wedding on a $40,000 Budget"
-categories: [ Jekyll, tutorial ]
+categories: [ Wedding ]
 image: assets/images/6budget.jpg
 tags: [featured]
 ---

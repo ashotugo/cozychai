@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Special Edition Series: Wedding Planning"
-categories: [ Jekyll, tutorial ]
+categories: [ Wedding ]
 image: assets/images/9wed.jpg
 tags: [sticky]
 ---

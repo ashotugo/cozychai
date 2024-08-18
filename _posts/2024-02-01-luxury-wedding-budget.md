@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Planning Your Dream Wedding on a $100,000 Budget"
-categories: [ Jekyll, tutorial ]
+categories: [ Wedding ]
 image: assets/images/7luxury.jpg
 ---
 
