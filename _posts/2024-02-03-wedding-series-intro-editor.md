@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Special Edition Series: Wedding Planning"
-author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/9wed.jpg
 tags: [sticky]

@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "You’re Engaged! Now what?"
-author: None
-categories: [ Jekyll, tutorial ]
+categories: [ Wedding ]
 image: assets/images/engaged.jpg
 ---
 

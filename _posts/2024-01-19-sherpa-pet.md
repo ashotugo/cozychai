@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Traveling with Ease: A Review of the Sherpa Pet Carrier"
-author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ ModernLiving ]
 image: assets/images/3sherpa.jpg
 tags: featured
 ---

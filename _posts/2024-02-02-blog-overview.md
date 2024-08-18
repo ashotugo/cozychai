@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "What to Expect from CozyChai: A High-Level Overview"
-author: sal
 categories: [ tutorial ]
 image: assets/images/8blog.jpg
 tags: [featured]

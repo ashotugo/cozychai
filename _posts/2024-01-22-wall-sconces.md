@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Illuminate Your Space with Style: A Review of Non-Electrical Wall Sconces"
-author: sal
-categories: [ Jekyll ]
+categories: [ ModernLiving ]
 image: assets/images/4sconces.jpg
 tags: featured
 ---
