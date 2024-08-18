@@ -16,7 +16,7 @@ Now that you’ve got the big picture in mind, it’s time to start thinking abo
 ### Understand each others culture and traditions
 This is also a great time to discuss each other’s cultures. Does he have a big or small family? Are there any must-invite guests you need to factor in? This is your opportunity to get a rough idea of who’s making the cut and how that will affect your overall planning.
 
-### Vendors impacted by guest count**
+### Vendors impacted by guest count
 When creating a budget, make sure it’s realistic. Weddings are expensive, and denial is a river in Egypt. As of 2024, you can expect an average of $200 per person. Multiply that by your guest count to give you an estimate of the cost of your venue. This is assuming food is included in your venue; if you decide to cater, that cost will probably be split half for the venue, half for food. Other costs impacted by your guest count are flowers, invitations, and favors. Let’s break it down:
 
 Sabrina and James are having a 200 guest wedding, including 5 bridesmaids and 5 groomsmen. They will need about 25 tables to hold 8 guest per table.
