@@ -4,7 +4,7 @@ title:  "Special Edition Series: Wedding Planning"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/9wed.jpg
-tags: [summer]
+tags: [sticky]
 ---
 Hey loves! I’m thrilled to introduce the very first special edition series here on CozyChai, and it’s one that’s close to my heart: Wedding Planning. Whether you’re newly engaged, deep in the throes of planning, or just dreaming about the big day, this series is for you.
 
@@ -39,7 +39,3 @@ And let’s not forget, weddings are about love—celebrating your unique love s
 I’m so excited to embark on this Wedding Planning series with you. Whether you’re a bride-to-be, a wedding enthusiast, or just someone who loves all things love, I hope you find something here that resonates with you. So, grab your wedding binder, pour yourself a glass of something bubbly, and let’s get planning!
 
 Thank you for letting CozyChai be a part of your wedding journey. I can’t wait to see where this adventure takes us.
-
-With love and light,
-
-[Your Name]

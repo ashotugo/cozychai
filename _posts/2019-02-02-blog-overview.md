@@ -38,7 +38,7 @@ Expect to find:
 
 ### 4. **Cultural Connection**
 
-As a 28-year-old African American woman from the East Coast, my cultural heritage is an important part of who I am, and it’s woven into the fabric of CozyChai. I believe that modern living doesn’t mean letting go of our roots, but rather, celebrating them in our everyday lives. You’ll find posts that explore how to integrate cultural traditions into modern living, from food and celebrations to fashion and storytelling.
+As an African American woman, my cultural heritage is an important part of who I am, and it’s woven into the fabric of CozyChai. I believe that modern living doesn’t mean letting go of our roots, but rather, celebrating them in our everyday lives. You’ll find posts that explore how to integrate cultural traditions into modern living, from food and celebrations to fashion and storytelling.
 
 Expect to find:
 - Recipes and cooking tips that celebrate cultural flavors and traditions.

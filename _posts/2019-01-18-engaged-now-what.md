@@ -4,7 +4,6 @@ title:  "You’re Engaged! Now what?"
 author: None
 categories: [ Jekyll, tutorial ]
 image: assets/images/engaged.jpg
-tags: [sticky]
 ---
 
 Congratulations! You’re engaged, and that shiny ring on your finger is a constant reminder that you’re about to start one of the most exciting chapters of your life. But before you dive headfirst into wedding planning, take a deep breath. The journey can be both thrilling and overwhelming, and it’s easy to get caught up in the details. So, where do you start? Here’s a guide to help you navigate the early stages of wedding planning with confidence.

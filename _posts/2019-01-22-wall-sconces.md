@@ -8,7 +8,6 @@ tags: featured
 ---
 If you’re looking to elevate your home decor without the hassle of rewiring, non-electrical wall sconces might be the perfect solution. These battery-operated lights have been gaining popularity for their ease of installation, aesthetic appeal, and the cozy ambiance they create. But like any product, they come with their own set of pros and cons. After trying out a pair of these sconces in my living room, here’s my take on them.
 
-Photo by <a href="https://unsplash.com/@dexterjacobs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Dexter Jacobs</a> on <a href="https://unsplash.com/photos/a-brick-wall-with-a-light-on-it--aO_SqgR7iE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ### The Pros
 

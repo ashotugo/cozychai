@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Embracing Modern Living: The Heart of CozyChai*"
+title:  "Embracing Modern Living: The Heart of CozyChai"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/5modern.jpg
@@ -8,7 +8,6 @@ tags: [featured]
 ---
 Hey, beautiful souls! I’m so excited to dive into the heart of what CozyChai is all about—modern living. This is more than just a buzzword; it’s a lifestyle that’s all about embracing the here and now while staying grounded in what truly matters. If you’ve been curious about what modern living really means and how it’s going to shape everything we do here on the blog, you’re in the right place.
 
-Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/a-kitchen-with-a-plant-in-the-middle-of-the-counter-jjmMNwscTqI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 ### What Is Modern Living?
 

@@ -18,8 +18,6 @@ I know how overwhelming life can be. Between work, relationships, and trying to 
 
 When I talk about modern living, I’m talking about more than just following the latest trends. For me, it’s about finding what works for you and making it your own. Whether that’s incorporating smart tech into your home, planning the perfect weekend getaway, or figuring out how to balance your career with your personal life, CozyChai is here to help you navigate it all with grace and ease.
 
-And let’s be real—modern living as a Black woman comes with its own unique set of challenges. I want CozyChai to be a place where we can have those real, honest conversations about what it means to thrive in a world that doesn’t always see us. From dealing with microaggressions at work to finding brands that cater to our specific needs, we’re going to talk about it all.
-
 ### What You Can Expect
 
 So, what can you expect from CozyChai? I’m glad you asked! Here’s a sneak peek at some of the things we’ll be diving into:
@@ -45,7 +43,3 @@ As we embark on this journey together, I hope CozyChai becomes a place where you
 I’m so excited to share this journey with you, and I can’t wait to see where it takes us. So, grab your favorite mug, get comfy, and let’s dive into the wonderful world of CozyChai together.
 
 Thank you for being here, and welcome to the CozyChai family!
-
-With love and light,
-
-[Your Name]

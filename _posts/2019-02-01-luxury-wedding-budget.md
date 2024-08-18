@@ -6,8 +6,6 @@ image: assets/images/7luxury.jpg
 ---
 
 Planning a wedding with a budget of $100,000 gives you the flexibility to create a memorable day with all the bells and whistles. With careful planning and smart spending, you can host an unforgettable celebration that’s luxurious, elegant, and uniquely yours. Here’s how to make the most of your six-figure budget.
-
-Photo by <a href="https://unsplash.com/@zoeholling?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zoe Holling</a> on <a href="https://unsplash.com/photos/black-car-PScacPyJE5U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 #### 1. Allocate Your Budget Wisely
 

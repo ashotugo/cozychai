@@ -6,7 +6,6 @@ categories: [ Jekyll, tutorial ]
 image: assets/images/6budget.jpg
 tags: [featured]
 ---
-Photo by <a href="https://unsplash.com/@northfolk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">NORTHFOLK</a> on <a href="https://unsplash.com/photos/white-printer-paper-Ok76F6yW2iA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 A wedding budget of $40,000 might not be extravagant, but it’s more than enough to create a beautiful and memorable day. With thoughtful planning and prioritization, you can have a stylish celebration that reflects your personality without compromising on the details that matter most. Here’s how to make the most of your $40,000 wedding budget.
 
