@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title:  "Essential Work-From-Home Accessories: A Guide to Creating the Perfect Setup"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: assets/images/11.jpg
+image: assets/images/2wfh.jpg
 ---
-
-**Essential Work-From-Home Accessories: A Guide to Creating the Perfect Setup**
-
 Working from home has become the new norm for many of us, and having the right accessories can make all the difference in your productivity, comfort, and overall well-being. Whether you’re setting up a new home office or looking to upgrade your current workspace, investing in a few key items can help you create a more efficient and ergonomic environment. Here’s a guide to the essential work-from-home accessories that will take your setup to the next level.
 
 ### 1. Standing Desk

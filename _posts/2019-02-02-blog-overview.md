@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
+title:  "What to Expect from CozyChai: A High-Level Overview"
 author: sal
 categories: [ tutorial ]
-image: assets/images/17.jpg
+image: assets/images/8blog.jpg
 tags: [featured]
 ---
-
-**What to Expect from CozyChai: A High-Level Overview**
 
 Welcome to CozyChai, where modern living meets intentionality, and every post is crafted with care to inspire, inform, and elevate your everyday life. Whether you’re a first-time visitor or a loyal reader, I want to give you a clear idea of what you can expect from each post on this blog. CozyChai is all about exploring the facets of contemporary living, and I’m thrilled to share this journey with you.
 

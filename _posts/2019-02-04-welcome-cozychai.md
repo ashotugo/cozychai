@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Welcome to CozyChai!"
+title:  "Ready to sip CozyChai?"
 categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+image: assets/images/cozychai.jpg
 ---
-**Welcome to CozyChai**
-
 Hey there, and welcome to CozyChai! I’m so excited that you’ve stopped by to join me on this journey. Whether you’re here for the first time or you’ve been with me since the early days, I’m grateful to have you in this little corner of the internet where we can talk about all things cozy, modern, and inspiring.
 
 So, what exactly is CozyChai? Think of it as your go-to space for everything that makes modern living just a little bit sweeter. We’ll be diving into a mix of tech, travel, lifestyle tips, and some special edition series where I get to share my deep dives into specific topics that I’m passionate about. It’s a multifaceted approach to life, where we’re all about embracing what makes us feel good and tackling the world with confidence and a dash of style.

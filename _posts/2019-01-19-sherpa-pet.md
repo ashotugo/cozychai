@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Markdown Example"
+title:  "Traveling with Ease: A Review of the Sherpa Pet Carrier"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: assets/images/6.jpg
+image: assets/images/3sherpa.jpg
 tags: featured
 ---
-
-**Traveling with Ease: A Review of the Sherpa Pet Carrier**
-
 As a pet parent who frequently travels with my furry friend, finding the perfect pet carrier has always been a top priority. After three years and over ten flights, I can confidently say that the Sherpa Pet Carrier has been a reliable and comfortable choice for both my dog and me. While it does have a few minor drawbacks, the pros far outweigh the cons, making it a fantastic option for anyone who needs a durable and convenient way to transport their pet.
+
+Photo by <a href="https://unsplash.com/@izamarques?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Izabelly Marques</a> on <a href="https://unsplash.com/photos/a-brown-dog-laying-on-top-of-a-couch-n1Q9uwLL-DY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ### The Pros
 

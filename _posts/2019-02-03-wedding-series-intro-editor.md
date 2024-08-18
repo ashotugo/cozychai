@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Special Edition Series: Wedding Planning"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+image: assets/images/9wed.jpg
 tags: [summer]
 ---
-
-**Special Edition Series: Wedding Planning**
-
 Hey loves! I’m thrilled to introduce the very first special edition series here on CozyChai, and it’s one that’s close to my heart: Wedding Planning. Whether you’re newly engaged, deep in the throes of planning, or just dreaming about the big day, this series is for you.
 
 I know how magical (and, let’s be real, how stressful) planning a wedding can be. There are so many details to consider, from picking the perfect dress to choosing a venue that fits your vibe. And then there’s the guest list, the budget, the flowers—oh, the list goes on! It can all feel a bit overwhelming, but that’s where CozyChai comes in. I’m here to help you navigate the journey with a bit more ease and a lot more joy.

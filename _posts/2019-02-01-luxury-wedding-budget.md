@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "Planning Your Dream Wedding on a $100,000 Budget"
 categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+image: assets/images/7luxury.jpg
 ---
-
-### Planning Your Dream Wedding on a $100,000 Budget
 
 Planning a wedding with a budget of $100,000 gives you the flexibility to create a memorable day with all the bells and whistles. With careful planning and smart spending, you can host an unforgettable celebration that’s luxurious, elegant, and uniquely yours. Here’s how to make the most of your six-figure budget.
 
+Photo by <a href="https://unsplash.com/@zoeholling?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zoe Holling</a> on <a href="https://unsplash.com/photos/black-car-PScacPyJE5U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 #### 1. Allocate Your Budget Wisely
 
 A $100,000 budget allows you to indulge in many of the finer details, but it’s still important to allocate funds wisely. Start by breaking down your budget into key categories:

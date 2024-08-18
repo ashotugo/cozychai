@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  "Embracing Modern Living: The Heart of CozyChai*"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/4.jpg
+image: assets/images/5modern.jpg
 tags: [featured]
 ---
-
-**Embracing Modern Living: The Heart of CozyChai**
-
 Hey, beautiful souls! I’m so excited to dive into the heart of what CozyChai is all about—modern living. This is more than just a buzzword; it’s a lifestyle that’s all about embracing the here and now while staying grounded in what truly matters. If you’ve been curious about what modern living really means and how it’s going to shape everything we do here on the blog, you’re in the right place.
 
+Photo by <a href="https://unsplash.com/@jakubzerdzicki?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakub Żerdzicki</a> on <a href="https://unsplash.com/photos/a-kitchen-with-a-plant-in-the-middle-of-the-counter-jjmMNwscTqI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 ### What Is Modern Living?
 
 Modern living is a blend of practicality, innovation, and mindfulness. It’s about finding balance in a fast-paced world, making smart choices, and creating a life that feels authentic and fulfilling. For me, modern living isn’t about keeping up with the latest trends or following a one-size-fits-all approach. It’s about discovering what works for you, taking advantage of the best that today has to offer, and letting go of anything that doesn’t serve you.
