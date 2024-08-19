@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Embracing Modern Living: The Heart of CozyChai"
+title:  "Embracing Modern Living: The Heart of SipCozyChai"
 categories: [ ModernLiving ]
 image: assets/images/5modern.jpg
 tags: [featured]
 ---
-Hey, beautiful souls! I’m so excited to dive into the heart of what CozyChai is all about—modern living. This is more than just a buzzword; it’s a lifestyle that’s all about embracing the here and now while staying grounded in what truly matters. If you’ve been curious about what modern living really means and how it’s going to shape everything we do here on the blog, you’re in the right place.
+Hey, beautiful souls! I’m so excited to dive into the heart of what SipCozyChai is all about—modern living. This is more than just a buzzword; it’s a lifestyle that’s all about embracing the here and now while staying grounded in what truly matters. If you’ve been curious about what modern living really means and how it’s going to shape everything we do here on the blog, you’re in the right place.
 
   
 ### What Is Modern Living?
@@ -22,7 +22,7 @@ As a 28-year-old African American woman from the East Coast, I’ve found that m
 
 ### What You’ll Find Here
 
-At CozyChai, modern living will be the main focus. Here’s a glimpse of what that looks like:
+At SipCozyChai, modern living will be the main focus. Here’s a glimpse of what that looks like:
 
 **1. Tech & Innovation:** From smart home gadgets to the latest apps, I’ll be sharing tips on how to use technology to simplify your life. But we’re not just about keeping up with the latest gadgets—we’re about using tech in ways that genuinely improve your day-to-day.
 
@@ -38,17 +38,17 @@ At CozyChai, modern living will be the main focus. Here’s a glimpse of what th
 
 ### Why It Matters
 
-The world is constantly changing, and it can feel overwhelming to keep up. But modern living is about taking control of your life and making it work for you. It’s about being proactive, not reactive, and creating a life that feels both manageable and meaningful. Here on CozyChai, we’re going to explore how to do just that—how to make the most of what we have, while staying true to who we are.
+The world is constantly changing, and it can feel overwhelming to keep up. But modern living is about taking control of your life and making it work for you. It’s about being proactive, not reactive, and creating a life that feels both manageable and meaningful. Here on SipCozyChai, we’re going to explore how to do just that—how to make the most of what we have, while staying true to who we are.
 
 I believe that modern living is about more than just keeping up with the latest trends—it’s about creating a life that you love. It’s about being intentional with your choices, finding joy in the everyday, and building a lifestyle that feels good from the inside out.
 
 ### Join the Modern Living Movement
 
-I’m so excited to embark on this journey of modern living with you. CozyChai is a space where we can learn, grow, and inspire each other to live our best lives. Whether you’re here for the tech tips, the wellness advice, or just to find a little inspiration for your day, I’m thrilled to have you along for the ride.
+I’m so excited to embark on this journey of modern living with you. SipCozyChai is a space where we can learn, grow, and inspire each other to live our best lives. Whether you’re here for the tech tips, the wellness advice, or just to find a little inspiration for your day, I’m thrilled to have you along for the ride.
 
 So, let’s embrace this modern world together—one that’s full of possibilities, challenges, and endless opportunities for growth. Let’s create a life that feels as good as it looks, and let’s do it with intention, joy, and a whole lot of love.
 
-Welcome to the modern living movement. Welcome to CozyChai.
+Welcome to the modern living movement. Welcome to SipCozyChai.
 
 With love and light,
 

@@ -5,9 +5,9 @@ categories: [ Wedding ]
 image: assets/images/9wed.jpg
 tags: [sticky]
 ---
-Hey loves! I’m thrilled to introduce the very first special edition series here on CozyChai, and it’s one that’s close to my heart: Wedding Planning. Whether you’re newly engaged, deep in the throes of planning, or just dreaming about the big day, this series is for you.
+Hey loves! I’m thrilled to introduce the very first special edition series here on SipCozyChai, and it’s one that’s close to my heart: Wedding Planning. Whether you’re newly engaged, deep in the throes of planning, or just dreaming about the big day, this series is for you.
 
-I know how magical (and, let’s be real, how stressful) planning a wedding can be. There are so many details to consider, from picking the perfect dress to choosing a venue that fits your vibe. And then there’s the guest list, the budget, the flowers—oh, the list goes on! It can all feel a bit overwhelming, but that’s where CozyChai comes in. I’m here to help you navigate the journey with a bit more ease and a lot more joy.
+I know how magical (and, let’s be real, how stressful) planning a wedding can be. There are so many details to consider, from picking the perfect dress to choosing a venue that fits your vibe. And then there’s the guest list, the budget, the flowers—oh, the list goes on! It can all feel a bit overwhelming, but that’s where SipCozyChai comes in. I’m here to help you navigate the journey with a bit more ease and a lot more joy.
 
 ### What to Expect from This Series
 
@@ -37,4 +37,4 @@ And let’s not forget, weddings are about love—celebrating your unique love s
 
 I’m so excited to embark on this Wedding Planning series with you. Whether you’re a bride-to-be, a wedding enthusiast, or just someone who loves all things love, I hope you find something here that resonates with you. So, grab your wedding binder, pour yourself a glass of something bubbly, and let’s get planning!
 
-Thank you for letting CozyChai be a part of your wedding journey. I can’t wait to see where this adventure takes us.
+Thank you for letting SipCozyChai be a part of your wedding journey. I can’t wait to see where this adventure takes us.
