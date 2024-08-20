@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ready to sip SipCozyChai?"
+title:  "Ready to SipCozyChai?"
 categories: [ ModernLiving ]
 image: assets/images/cozychai.jpg
 ---
