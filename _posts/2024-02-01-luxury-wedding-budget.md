@@ -11,6 +11,16 @@ Planning a wedding with a budget of $100,000 gives you the flexibility to create
 
 A $100,000 budget allows you to indulge in many of the finer details, but it’s still important to allocate funds wisely. Start by breaking down your budget into key categories:
 
+| **Category**                | **Estimated Cost** |
+|-----------------------------|--------------------|
+| Venue and Catering          | $40,000            |
+| Photography and Videography | $10,000            |
+| Florals and Décor           | $15,000            |
+| Entertainment               | $10,000            |
+| Attire and Accessories      | $10,000            |
+| **Total**                   | **$85,000**        |
+
+
 - **Venue and Catering:** Expect to spend about 40% of your budget here. This includes the cost of the venue, food, and beverages. With a $100,000 budget, you can select a high-end venue and offer gourmet catering, signature cocktails, and a lavish dining experience for your guests. Estimate: $40,000.
 
 - **Photography and Videography:** Capturing your wedding day is essential, so allocate around 10% of your budget to hiring top-notch photographers and videographers. This ensures that every moment is documented in stunning detail. Estimate: $10,000.
