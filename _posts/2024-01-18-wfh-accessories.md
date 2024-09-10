@@ -8,7 +8,12 @@ Working from home has become the new norm for many of us, and having the right a
 
 ### 1. Standing Desk
 
-A standing desk is a game-changer when it comes to work-from-home productivity. Sitting for long periods can lead to discomfort and health issues, so having the option to stand while you work is a great way to stay active and engaged throughout the day. Standing desks come in various styles, from full-sized adjustable desks to portable converters that sit on top of your existing desk. The key is to choose one that allows you to easily switch between sitting and standing positions, helping you avoid the aches and pains that come with prolonged sitting.
+A standing desk is a game-changer when it comes to work-from-home productivity. Sitting for long periods can lead to discomfort and health issues, so having the option to stand while you work is a great way to stay active and engaged throughout the day. Standing desks come in various styles, from full-sized adjustable desks to portable converters that sit on top of your existing desk. The key is to choose one that allows you to easily switch between sitting and standing positions, helping you avoid the aches and pains that come with prolonged sitting. 
+
+Flexispot sells standing desk in different styles and comes with cool accessories such as cable organizers and coasters!
+
+[View Flexispot Desk on Amazon](https://amzn.to/3Tpevz3)
+![Office desk](../assets/images/Officeback.png)
 
 **How to Use:**
 Start by adjusting the desk to a comfortable height, ensuring that your elbows are at a 90-degree angle when typing. Alternate between sitting and standing every 30 minutes to keep your body moving and prevent stiffness.
@@ -20,12 +25,16 @@ A wireless keyboard is a must-have accessory for any work-from-home setup. It al
 **How to Use:**
 Pair your wireless keyboard with your computer or laptop, and place it at a comfortable distance that allows you to maintain good posture. Consider a keyboard with a built-in wrist rest for added comfort.
 
+[View Logitech Keyboard on Amazon](https://amzn.to/3TnOoZ3)
+
 ### 3. Wireless Mouse
 
 Along with a wireless keyboard, a wireless mouse is another essential accessory that provides convenience and flexibility. A wireless mouse allows you to navigate your computer screen with ease, without being tethered by cords. Choose a mouse that fits comfortably in your hand and offers smooth, responsive tracking.
 
 **How to Use:**
 Connect your wireless mouse to your device, and adjust the sensitivity settings to your preference. Make sure your hand is in a natural position to avoid strain during long work sessions.
+
+[$9.99 Logitech Mouse on Amazon](https://amzn.to/3XCKyOo)
 
 ### 4. Laptop Stand
 
@@ -34,6 +43,8 @@ A laptop stand is a simple yet effective way to improve your posture and reduce 
 **How to Use:**
 Place your laptop on the stand and adjust it so that the top of the screen is at or slightly below eye level. Pair it with a wireless keyboard and mouse to create a comfortable, ergonomic setup.
 
+[View Laptop Stand on Amazon](https://amzn.to/4gh8qOR)
+
 ### 5. Extra Monitor
 
 An extra monitor can significantly boost your productivity by giving you more screen real estate to work with. Whether you’re managing multiple documents, spreadsheets, or creative projects, having an additional monitor allows you to multitask more efficiently and reduces the need to constantly switch between tabs.
@@ -41,12 +52,16 @@ An extra monitor can significantly boost your productivity by giving you more sc
 **How to Use:**
 Connect your extra monitor to your laptop or desktop computer, and position it at eye level to avoid neck strain. Use it as an extended display to keep your main workspace uncluttered and organized.
 
+[View Extra Monitor on Amazon](https://amzn.to/3Xi8k0F)
+
 ### 6. Ergonomic Chair
 
 Finally, an ergonomic chair is one of the most important investments you can make for your work-from-home setup. A good chair provides the support your body needs to maintain proper posture throughout the day, reducing the risk of back pain and other discomforts associated with prolonged sitting.
 
 **How to Use:**
 Adjust the chair’s height so that your feet are flat on the floor and your knees are at a 90-degree angle. Make sure the backrest supports the natural curve of your spine, and use the armrests to take pressure off your shoulders and neck.
+
+[View Extra Monitor on Amazon](https://amzn.to/47nSOoz)
 
 ### Final Thoughts
 
